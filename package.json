@@ -18,6 +18,7 @@
   "homepage": "https://github.com/JonathanBrownCFA/liri-node-app#readme",
   "dependencies": {
     "dotenv": "^4.0.0",
+    "liri": "^1.0.1",
     "node-spotify-api": "^1.0.7",
     "omdbapi": "^2.0.1",
     "request": "^2.83.0",
